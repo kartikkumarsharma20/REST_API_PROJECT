@@ -14,6 +14,10 @@ const options = {
       {
         url: "http://localhost:3000",
         description: "Local server"
+      },
+      {
+        url: "https://rest-api-project-nu4q.onrender.com",
+        description: "Render production server"
       }
     ]
   },
